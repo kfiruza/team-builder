@@ -1,6 +1,11 @@
 .App {
   text-align: center;
+  background-color: skyblue;
 }
+html {
+  background-color: skyblue;
+}
+
 
 .App-logo {
   height: 40vmin;
